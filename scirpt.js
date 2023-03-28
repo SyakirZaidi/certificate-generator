@@ -20,5 +20,5 @@ formFirstPage.addEventListener("submit", function (event) {
   localStorage.setItem("tempat", tempat);
 
   //   navigate to another page
-  window.location.href = "paparSijil.html";
+  window.location.href = "/paparSijil.html";
 });
